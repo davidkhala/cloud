@@ -6,3 +6,7 @@ Index handbook of Cloud concepts and projects
 - [free-tier](https://github.com/davidkhala/cloud-compare-free-tier)
 - [adoption-framework](https://github.com/davidkhala/cloud-adoption-framework)
 - [region map](https://github.com/davidkhala/cloud-region)
+- cloud vendor projects
+  - https://github.com/davidkhala/aws-collections
+  - https://github.com/davidkhala/azure-utils
+  - https://github.com/davidkhala/oci-collection
