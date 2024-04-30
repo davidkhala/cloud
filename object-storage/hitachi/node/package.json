@@ -1,0 +1,16 @@
+{
+  "name": "hcp",
+  "version": "0.0.0",
+  "description": "Hitachi Content Platform SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidkhala/cloud.git"
+  }
+}

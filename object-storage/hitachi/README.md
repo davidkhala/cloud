@@ -2,6 +2,8 @@
 [home](https://www.hitachivantara.com/en-us/products/storage-platforms/object-storage)
 
 [SDK](https://readthedocs.org/projects/hcpsdk/downloads/pdf/latest/)
+- [open source](https://github.com/Simont3/hcpsdk)
+- Written in python
 
 Namespace conceptually equals to bucket
 
