@@ -6,6 +6,8 @@ Namespace conceptually equals to bucket
 
 ## S3 compatible
 [But key features are not supported](https://docs.hitachivantara.com/r/en-us/content-platform/9.6.x/mk-95hcph002/hcp-management-api-reference/introduction-to-the-hcp-management-api/support-for-the-amazon-s3-api) 
+- Bucket website, lifecycle, encryption, policy or tagging
+- Object tagging, restore, content query(sql select)
 
 ## Multipart upload
 - Each part unit down to 1 MB, up to 5GB
