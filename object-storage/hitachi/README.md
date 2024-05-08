@@ -15,8 +15,6 @@ Namespace conceptually equals to bucket
 
 
 ## dev Community
-[java example](https://github.com/roguen/HCPJavaRestExamples)
-
 [python example](https://github.com/jerboa-io/SimpleHS3)
 
 [SDK](https://readthedocs.org/projects/hcpsdk/downloads/pdf/latest/)
