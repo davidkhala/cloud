@@ -8,6 +8,7 @@ Index handbook of Cloud concepts and projects
 - [adoption-framework](https://github.com/davidkhala/cloud-adoption-framework)
 - [region map](https://github.com/davidkhala/cloud-region)
 - [serverless](https://github.com/davidkhala/serverless)
+  - [Back-end as a service (BEaaS)](https://github.com/davidkhala/serverless/tree/main/BEaaS)
 - cloud vendor projects
   - https://github.com/davidkhala/aws-collections
   - https://github.com/davidkhala/azure-utils
