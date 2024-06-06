@@ -13,4 +13,5 @@ Index handbook of Cloud concepts and projects
   - https://github.com/davidkhala/aws-collections
   - https://github.com/davidkhala/azure-utils
   - https://github.com/davidkhala/oci-collection
-
+- [devops](https://github.com/davidkhala/devops)
+- 
